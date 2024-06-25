@@ -1,4 +1,4 @@
-const topMeal = [{
+export const topMeals = [{
         image: "https://cdn.pixabay.com/photo/2017/08/06/06/43/pizza-2589575_1280.jpg",
         title: "Pizza"
 
@@ -48,4 +48,9 @@ const topMeal = [{
         title: "Noodles"
 
     },
-]
+    {
+        image: "https://cdn.pixabay.com/photo/2016/10/25/13/42/indian-1768906_1280.jpg",
+        title: "Dosa"
+
+    },
+];
